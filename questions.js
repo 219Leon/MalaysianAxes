@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "The European Parliament needs more power.",
+        "question": "The United Nations needs more power.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -405,12 +405,12 @@ questions = [
         }
     },
     {
-        "question": "The non-aggression principle should form the basis of all laws.",
+        "question": "The Sedition Act must be abolished.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -527,7 +527,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -15
+            "scty": -10
         }
     },
     {
@@ -603,7 +603,7 @@ questions = [
         }
     },
     {
-        "question": "Marijuana use should be punished, whether by the state, community or private sector.",
+        "question": "Marijuana/Kratom use should be punished, whether by the state, community or private sector.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -648,7 +648,7 @@ questions = [
         }
     },
     {
-        "question": "The fundamental flaw of western societies is that their people have lost faith in God.",
+        "question": "The fundamental flaw of societies is that their people have lost faith in God.",
         "effect": {
             "econ": 0,
             "dipl": 0,
