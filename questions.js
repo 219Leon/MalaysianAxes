@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "Private charity is a bad thing, as it prevents the masses from reaching the conditions that cause revolution.",
+        "question": "Social welfare is a much better option than private charity",
         "effect": {
             "econ": 15,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "The practice of usury should be banned.",
+        "question": "The practice of usury (riba) should be banned.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "The government should be able to monitor potential terrorists.",
+        "question": "The government should enforce the Security Offences (Special Measures) Act.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -369,7 +369,7 @@ questions = [
         }
     },
     {
-        "question": "The act of disrespecting a ruler should earn the offender a serve punishment.",
+        "question": "The act of disrespecting Race, Religion, or Monarchy should earn the offender a serve punishment.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Direct democracy is an ideal form of government.",
+        "question": "Semi-Direct democracy is an ideal form of government.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -635,16 +635,16 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -12
+            "scty": -10
         }
     },
     {
-        "question": "Every person should be able to determine their own concept of existance.",
+        "question": "'Campus Democracy, Student Autonomy' is a good idea, therefore Univerisites and College Universities Act (AUKU) must be abolished.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 7,
-            "scty": 0
+            "scty": 7
         }
     },
     {
@@ -666,7 +666,7 @@ questions = [
         }
     },
     {
-        "question": "Witchcraft should be a punishable offense.",
+        "question": "Atheism should not be tolerated.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -689,7 +689,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 15
+            "scty": 10
         }
     },
     {
@@ -702,7 +702,7 @@ questions = [
         }
     },
     {
-        "question": "Abortions should be redily available.",
+        "question": "Abortions should be readily available.",
         "effect": {
             "econ": 0,
             "dipl": 0,
